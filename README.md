@@ -6,6 +6,14 @@ Awesome websites
 * https://untools.co/ Tools for better thinking. Categorized under: Systems thinking, Decision making, Problem solving, Communication
 * https://www.mcmaster.com/ Ultra fast website that showcases many products, all in a very navigatable fashion.
 * http://textfiles.com/ Text files from the 1980's and 1990's hackers and BBS culture
+* https://hacker-recommended-books.vercel.app/
+
+Explainers
+----------
+
+* https://sha256algorithm.com/
+* https://bbycroft.net/llm
+* https://bost.ocks.org/mike/ This guy explains many things visually.
 
 Rules
 -----
@@ -14,4 +22,4 @@ Websites submitted must be:
 * complete (No half-baked project)
 * useful
 * non-commercial, with some exceptions such as McMaster-Carr
-* okay for kids to see (no porn)
+* mostly okay for kids to see (no porn)
