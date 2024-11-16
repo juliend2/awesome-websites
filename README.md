@@ -14,3 +14,4 @@ Websites submitted must be:
 * complete (No half-baked project)
 * useful
 * non-commercial, with some exceptions such as McMaster-Carr
+* okay for kids to see (no porn)
