@@ -8,7 +8,8 @@ Awesome websites
 * http://textfiles.com/ Text files from the 1980's and 1990's hackers and BBS culture
 * https://hacker-recommended-books.vercel.app/
 
-# Data visualizations 
+Data visualizations
+-------------------
 
 * [TimeMap](https://www.oldmapsonline.org/en/history/regions#position=2/29.7/-17.3&year=1686)
 
