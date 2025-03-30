@@ -21,6 +21,14 @@ Explainers
 * https://bost.ocks.org/mike/ This guy explains many things visually.
 * https://ciechanow.ski/archives/ The master of visual explanation on the Web
 
+Databases
+---------
+
+* https://catholic-hierarchy.org/
+* https://programminglanguages.co 
+
+
+
 Rules
 -----
 
