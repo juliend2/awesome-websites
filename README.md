@@ -8,6 +8,10 @@ Awesome websites
 * http://textfiles.com/ Text files from the 1980's and 1990's hackers and BBS culture
 * https://hacker-recommended-books.vercel.app/
 
+Archives
+--------
+* [Whole Earth Index](https://wholeearth.info/) A nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1968 and 2002.
+
 Data visualizations
 -------------------
 
