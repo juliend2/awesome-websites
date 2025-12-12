@@ -27,6 +27,12 @@ Explainers
 * https://betterexplained.com/ Math concepts, better explained
 * https://neal.fun/ Contains many cool visualizations
 
+Programming
+-----------
+
+* https://www.patterns.dev/
+* https://refactoring.guru/
+
 Databases
 ---------
 
