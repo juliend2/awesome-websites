@@ -26,6 +26,7 @@ Explainers
 * https://ciechanow.ski/archives/ The master of visual explanation on the Web
 * https://betterexplained.com/ Math concepts, better explained
 * https://neal.fun/ Contains many cool visualizations
+* https://colah.github.io/ AI/ML concepts, explained visually
 
 Programming
 -----------
