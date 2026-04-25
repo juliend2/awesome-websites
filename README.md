@@ -28,6 +28,11 @@ Explainers
 * https://neal.fun/ Contains many cool visualizations
 * https://colah.github.io/ AI/ML concepts, explained visually
 
+Magazines
+---------
+
+* https://solar.lowtechmagazine.com
+
 Programming
 -----------
 
